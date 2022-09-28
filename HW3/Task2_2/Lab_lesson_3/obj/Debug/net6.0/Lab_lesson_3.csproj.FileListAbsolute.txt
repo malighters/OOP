@@ -1,0 +1,15 @@
+C:\Users\USER\RiderProjects\Lab_lesson_3\Lab_lesson_3\bin\Debug\net6.0\Lab_lesson_3.exe
+C:\Users\USER\RiderProjects\Lab_lesson_3\Lab_lesson_3\bin\Debug\net6.0\Lab_lesson_3.deps.json
+C:\Users\USER\RiderProjects\Lab_lesson_3\Lab_lesson_3\bin\Debug\net6.0\Lab_lesson_3.runtimeconfig.json
+C:\Users\USER\RiderProjects\Lab_lesson_3\Lab_lesson_3\bin\Debug\net6.0\Lab_lesson_3.dll
+C:\Users\USER\RiderProjects\Lab_lesson_3\Lab_lesson_3\bin\Debug\net6.0\Lab_lesson_3.pdb
+C:\Users\USER\RiderProjects\Lab_lesson_3\Lab_lesson_3\obj\Debug\net6.0\Lab_lesson_3.csproj.AssemblyReference.cache
+C:\Users\USER\RiderProjects\Lab_lesson_3\Lab_lesson_3\obj\Debug\net6.0\Lab_lesson_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\RiderProjects\Lab_lesson_3\Lab_lesson_3\obj\Debug\net6.0\Lab_lesson_3.AssemblyInfoInputs.cache
+C:\Users\USER\RiderProjects\Lab_lesson_3\Lab_lesson_3\obj\Debug\net6.0\Lab_lesson_3.AssemblyInfo.cs
+C:\Users\USER\RiderProjects\Lab_lesson_3\Lab_lesson_3\obj\Debug\net6.0\Lab_lesson_3.csproj.CoreCompileInputs.cache
+C:\Users\USER\RiderProjects\Lab_lesson_3\Lab_lesson_3\obj\Debug\net6.0\Lab_lesson_3.dll
+C:\Users\USER\RiderProjects\Lab_lesson_3\Lab_lesson_3\obj\Debug\net6.0\refint\Lab_lesson_3.dll
+C:\Users\USER\RiderProjects\Lab_lesson_3\Lab_lesson_3\obj\Debug\net6.0\Lab_lesson_3.pdb
+C:\Users\USER\RiderProjects\Lab_lesson_3\Lab_lesson_3\obj\Debug\net6.0\Lab_lesson_3.genruntimeconfig.cache
+C:\Users\USER\RiderProjects\Lab_lesson_3\Lab_lesson_3\obj\Debug\net6.0\ref\Lab_lesson_3.dll
