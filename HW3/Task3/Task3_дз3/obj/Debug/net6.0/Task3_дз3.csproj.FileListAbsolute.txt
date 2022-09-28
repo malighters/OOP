@@ -1,0 +1,15 @@
+C:\Users\USER\RiderProjects\Task3_дз3\Task3_дз3\bin\Debug\net6.0\Task3_дз3.exe
+C:\Users\USER\RiderProjects\Task3_дз3\Task3_дз3\bin\Debug\net6.0\Task3_дз3.deps.json
+C:\Users\USER\RiderProjects\Task3_дз3\Task3_дз3\bin\Debug\net6.0\Task3_дз3.runtimeconfig.json
+C:\Users\USER\RiderProjects\Task3_дз3\Task3_дз3\bin\Debug\net6.0\Task3_дз3.dll
+C:\Users\USER\RiderProjects\Task3_дз3\Task3_дз3\bin\Debug\net6.0\Task3_дз3.pdb
+C:\Users\USER\RiderProjects\Task3_дз3\Task3_дз3\obj\Debug\net6.0\Task3_дз3.csproj.AssemblyReference.cache
+C:\Users\USER\RiderProjects\Task3_дз3\Task3_дз3\obj\Debug\net6.0\Task3_дз3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\RiderProjects\Task3_дз3\Task3_дз3\obj\Debug\net6.0\Task3_дз3.AssemblyInfoInputs.cache
+C:\Users\USER\RiderProjects\Task3_дз3\Task3_дз3\obj\Debug\net6.0\Task3_дз3.AssemblyInfo.cs
+C:\Users\USER\RiderProjects\Task3_дз3\Task3_дз3\obj\Debug\net6.0\Task3_дз3.csproj.CoreCompileInputs.cache
+C:\Users\USER\RiderProjects\Task3_дз3\Task3_дз3\obj\Debug\net6.0\Task3_дз3.dll
+C:\Users\USER\RiderProjects\Task3_дз3\Task3_дз3\obj\Debug\net6.0\refint\Task3_дз3.dll
+C:\Users\USER\RiderProjects\Task3_дз3\Task3_дз3\obj\Debug\net6.0\Task3_дз3.pdb
+C:\Users\USER\RiderProjects\Task3_дз3\Task3_дз3\obj\Debug\net6.0\Task3_дз3.genruntimeconfig.cache
+C:\Users\USER\RiderProjects\Task3_дз3\Task3_дз3\obj\Debug\net6.0\ref\Task3_дз3.dll
